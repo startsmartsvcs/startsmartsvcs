@@ -1,0 +1,14 @@
+Copyright © 2025 StartSmart with Ivy Black
+
+All rights reserved.
+
+This project is proprietary. You are granted permission to use, view, and modify this code for personal or internal business use only.
+
+You may NOT:
+- Copy, distribute, or resell this code
+- Use this code or modified versions in any product or service intended for sale or public release
+- Upload this code to public repositories or share it without written permission
+
+Commercial use by third parties is prohibited without explicit written consent.
+
+For licensing inquiries, contact: https://trustivyblack.online/
